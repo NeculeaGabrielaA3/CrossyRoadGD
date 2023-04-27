@@ -1,2 +1,0 @@
-# CrossyRoadGD
-Repository for GD.
